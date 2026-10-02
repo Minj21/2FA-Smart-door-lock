@@ -1,0 +1,9 @@
+# Arduino and local editor files
+build/
+.pio/
+.vscode/
+*.tmp
+*.log
+*.bak
+*.rar
+*.zip
